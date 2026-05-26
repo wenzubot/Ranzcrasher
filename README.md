@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://img2.pixhost.to/images/7538/720347067_asepnotdev.jpg" alt="New Bailyes AsepNotDev" width="100%" />
+<img src="https://files.catbox.moe/ua3an2.png" alt="New Bailyes Ranz" width="100%" />
 
 <br/>
 <br/>
@@ -20,7 +20,7 @@ Built on WebSocket for speed, stability, and full multi-device support.
 
 <br/>
 
-[Installation](#getting-started) &nbsp;2022&nbsp; [Documentation](#sendmessage-documentation) &nbsp;2022&nbsp; [Features](#main-features) &nbsp;2022&nbsp; [Telegram](https://t.me/asepisheree)
+[Installation](#getting-started) &nbsp;2022&nbsp; [Documentation](#sendmessage-documentation) &nbsp;2022&nbsp; [Features](#main-features) &nbsp;2022&nbsp; [Telegram]([https://t.me/asepisheree](https://t.me/Ranzneweraa))
 
 </div>
 
@@ -28,7 +28,7 @@ Built on WebSocket for speed, stability, and full multi-device support.
 
 ## What is Baileys Asep?
 
-**WhatsApp Baileys Asep** is a powerful, open-source library for developers who need reliable WhatsApp automation without the overhead of a browser. Powered by **WebSocket technology**, it supports message management, group administration, interactive messages, and action buttons 2014 all in a lightweight and modular package.
+**WhatsApp Baileys Ranz** is a powerful, open-source library for developers who need reliable WhatsApp automation without the overhead of a browser. Powered by **WebSocket technology**, it supports message management, group administration, interactive messages, and action buttons 2014 all in a lightweight and modular package.
 
 Actively maintained with continuous improvements to **pairing stability**, **session management**, and **WhatsApp multi-device compatibility**.
 
@@ -170,7 +170,7 @@ await sock.sendMessage(target, {
     interactiveMessage: {
         header: "Hello World",
         title: "Hello World",
-        footer: "telegram: @asepisheree",
+        footer: "telegram: @Ranzneweraa",
         buttons: [
             {
                 name: "cta_copy",
@@ -195,13 +195,13 @@ await sock.sendMessage(target, {
     interactiveMessage: {
         header: "Hello World",
         title: "Hello World",
-        footer: "telegram: @asepisheree",
-        image: { url: "https://img2.pixhost.to/images/7538/720347067_asepnotdev.jpg" },
+        footer: "telegram: @Ranzneweraa",
+        image: { url: "https://files.catbox.moe/ua3an2.png" },
         nativeFlowMessage: {
             messageParamsJson: JSON.stringify({
                 limited_time_offer: {
                     text: "Limited offer text",
-                    url: "https://t.me/asepisheree",
+                    url: "https://t.me/Ranzneweraa",
                     copy_code: "PROMO2024",
                     expiration_time: Date.now() * 999
                 },
@@ -214,7 +214,7 @@ await sock.sendMessage(target, {
                 tap_target_configuration: {
                     title: "Title",
                     description: "Description text",
-                    canonical_url: "https://t.me/asepisheree",
+                    canonical_url: "https://t.me/Ranzneweraa",
                     domain: "shop.example.com",
                     button_index: 0
                 }
@@ -272,8 +272,8 @@ await sock.sendMessage(target, {
     interactiveMessage: {
         header: "Hello World",
         title: "Hello World",
-        footer: "telegram: @asepisheree",
-        image: { url: "https://img2.pixhost.to/images/7538/720347067_asepnotdev.jpg" },
+        footer: "telegram: @Ranzneweraa",
+        image: { url: "https://files.catbox.moe/ua3an2.png" },
         buttons: [
             {
                 name: "cta_copy",
@@ -298,7 +298,7 @@ await sock.sendMessage(target, {
     productMessage: {
         title: "Sample Product",
         description: "This is the product description.",
-        thumbnail: { url: "https://img2.pixhost.to/images/7538/720347067_asepnotdev.jpg" },
+        thumbnail: { url: "https://files.catbox.moe/ua3an2.png" },
         productId: "PROD001",
         retailerId: "RETAIL001",
         url: "https://example.com/product",
